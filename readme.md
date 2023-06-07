@@ -1,3 +1,4 @@
+### Groupe
 
 
 # Objectif
@@ -83,7 +84,7 @@ matches:
 ```
 
 
-#####  Optimisation des requetes sur certaines champs
+#####  Optimisation des requetes sur certains champs
 Sur la collection joueur 
 
 ```js
